@@ -1,0 +1,4 @@
+*.log
+*.bck
+*.swp
+application/config/database.php
